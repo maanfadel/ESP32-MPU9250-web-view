@@ -1,0 +1,4 @@
+[upstream]
+origin_type = "github"
+user_name = "maanfadel"
+repo_name = "ESP32-MPU9250-web-view"
